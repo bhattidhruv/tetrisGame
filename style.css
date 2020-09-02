@@ -1,0 +1,48 @@
+
+
+/* styling for the block of div with class name display*/
+.display{
+    display: flex;
+}
+
+/*we are looking for class grid*/
+.grid {
+    
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: orange;
+}
+/*by typing ".grid div" we are saying that we want only the divs in the grid*/
+.grid div{
+    height: 20px;
+    width: 20px;
+   
+}
+
+.tetromino{
+    background-color:navy;
+}
+
+.mTetromino{
+    background-color: maroon;
+}
+
+.miniGrid{
+    margin-left: 50px;
+    width: 80px;
+    height: 80px;
+    background-color: mediumaquamarine;
+    display: flex;
+    flex-wrap: wrap;
+}
+.miniGrid div{
+    height: 20px;
+    width: 20px;
+
+}
+
+.spacer{
+    width: 40px;
+}
