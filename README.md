@@ -1,2 +1,2 @@
 # tetrisGame
-https://bhatttidhruv.github.io/tetrisGame/
+https://bhattidhruv.github.io/tetrisGame/
